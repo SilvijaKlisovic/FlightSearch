@@ -1,0 +1,14 @@
+﻿[
+  {
+    "code": "HRK",
+    "name": "Hrvatska Kuna"
+  },
+  {
+    "code": "EUR",
+    "name": "Euro"
+  },
+  {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+]
